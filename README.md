@@ -24,3 +24,7 @@ Homepage View
 
 <h4>Playlist Section of Spotify</h4>
 <img src="Screenshot 02.png">
+
+<h4> Interactive Styling</h4>
+
+<img src="screenshot 03.png>

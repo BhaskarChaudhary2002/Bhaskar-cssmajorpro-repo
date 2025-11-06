@@ -18,3 +18,4 @@ HTML, CSS
 
 <h1> Screenshots </h1>
 Homepage View
+<img src="Screenshot 01.png.png">

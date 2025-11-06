@@ -1,4 +1,6 @@
 <h1> 🎵 Spotify Clone </h1>  
+<h2>Live link Of my project</h2>
+<h2> https://bhaskarchaudhary2002.github.io/Bhaskar-cssmajorpro-repo/</h2>
 
 Replicated the Spotify interface using only HTML and CSS, showcasing a clean, responsive, and modern music app layout.
 

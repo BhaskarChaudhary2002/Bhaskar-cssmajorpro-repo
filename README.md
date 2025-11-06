@@ -13,9 +13,13 @@ HTML, CSS
 <h1> Features </h1>
 
 ✅ Responsive Spotify-like interface
+
 ✅ Sidebar navigation and playlists section
+
 ✅ Hover effects & smooth transitions for interactive feel
+
 ✅ Organized layout for music controls and content
+
 ✅ Mobile-friendly design
 
 <h1> Screenshots </h1>
@@ -27,4 +31,4 @@ Homepage View
 
 <h4> Interactive Styling</h4>
 
-<img src="screenshot 03.png>
+<img src="Screenshot 03.png">

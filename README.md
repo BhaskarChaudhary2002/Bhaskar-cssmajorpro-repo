@@ -23,3 +23,4 @@ Homepage View
 <img src="Screenshot 01.png.png">
 
 <h4>Playlist Section of Spotify</h4>
+<img src="Screenshot 02.png">

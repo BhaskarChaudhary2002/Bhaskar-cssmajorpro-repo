@@ -1,4 +1,4 @@
-Spotify Clone
+<h1> Spotify Clone </h1>  
 
 Replicated the Spotify interface using only HTML and CSS, showcasing a clean, responsive, and modern music app layout.
 

@@ -19,7 +19,7 @@ HTML, CSS
 ✅ Mobile-friendly design
 
 <h1> Screenshots </h1>
-<h4>>Homepage View</h4
+Homepage View
 <img src="Screenshot 01.png.png">
 
 <h4>Playlist Section of Spotify</h4>
